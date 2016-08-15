@@ -5,4 +5,4 @@ title: Harm Reduction
 
 
 
-{% include harmredox.html %}
+{% include product.harmredox.html %}
