@@ -13525,3 +13525,25 @@ body:not(.no-transition) #wrapper,
 	padding:0!important
 }
 
+
+
+
+
+
+
+
+
+/*
+
+Custom CSS
+
+
+*/
+
+
+.what-we-do .heading-block{
+    display: inline-block;
+}
+.footer-logo{
+	margin-bottom:0;
+}
