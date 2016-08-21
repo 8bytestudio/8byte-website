@@ -5,4 +5,4 @@ title: Routinizer
 
 
 
-{% include routinizer.html %}
+{% include product.routinizer.html %}
